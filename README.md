@@ -20,11 +20,11 @@ Welcome to the "Stones Game", a strategic two-player board game implemented in P
 ## How to Run
 - **Clone the Repository:**
   ```bash
-  git clone https://github.com/ChristosGkovaris/The-Stones-Game.git
-  cd The-Stones-Game
+     git clone https://github.com/ChristosGkovaris/The-Stones-Game.git
+     cd The-Stones-Game
 - Ensure you have Python installed: The game requires Python 3. Ensure it is installed on your system.
 - Run the game: **stones.py**
 
 
-  ## Collaboration
-  This project was a collaborative effort. Special thanks to [SpanouMaria](https://github.com/SpanouMaria) for their significant contributions to the development and improvement of the game.
+## Collaboration
+This project was a collaborative effort. Special thanks to [SpanouMaria](https://github.com/SpanouMaria) for their significant contributions to the development and improvement of the game.
